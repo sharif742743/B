@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(176, 184, 184);
+}
+.container {
+    background-color: rgb(243, 242, 242);
+    height: 25rem;
+    display: flex;
+}
+.logo {
+    margin-right: 100px;
+}
+.ditails {
+    margin: 0px 0px 0px 0px;
+}
