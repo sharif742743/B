@@ -8,12 +8,44 @@ body {
 }
 .container {
     background-color: rgb(243, 242, 242);
-    height: 25rem;
+    height: 13rem;
     display: flex;
 }
 .logo {
     margin-right: 100px;
 }
 .ditails {
-    margin: 0px 0px 0px 0px;
+    margin: 0px 100px 0px 0px;
+
+}
+.review {
+    color: rgb(90, 169, 233);
+}
+.Trustpoint {
+    color: rgb(112, 111, 111);
+}
+ul li {
+    list-style: none;
+}
+.fivestar {
+    font-size: .8rem;
+}
+.button {
+    height: 40px;
+    width: 85px;
+    background-color: rgb(66, 66, 196);
+}
+.Exceptional {
+    color:rgb(66, 66, 196) ;
+}
+.digit {
+    font-size: 30px;
+    color: white;
+}
+.visit button {
+    height: 40px;
+    width: 150px;
+    background-color: darkorange;
+    border: 2px solid darkorange;
+    margin-top: 50px;
 }
